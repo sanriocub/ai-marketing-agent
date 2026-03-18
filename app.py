@@ -29,7 +29,7 @@ st.sidebar.markdown("---")
 audience = st.text_input("🧸 Target Audience")
 platform = st.selectbox("🦢 Platform", ["Instagram", "TikTok", "LinkedIn"])
 goal = st.text_input("🐆 Campaign Goal")
-style = st.selectbox("🦔 Style", ["Gen Z fun", "Luxury aesthetic", "Minimal clean"])
+style = st.selectbox("🦔 Style", ["Gen Z fun", "Luxury aesthetic", "Minimal clean","Professional","Unique & themed"])
 
 # Generate button
 if st.button("Generate Campaign 🎬"):
