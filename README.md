@@ -19,13 +19,13 @@ Create campaigns using AI + creativity ✨
 
 While your campaigns load, enjoy some Snoopy vibes 🐶  
 
-![Snoopy typing](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)  
+![Snoopy typing](https://i.pinimg.com/originals/fb/03/8c/fb038c9d39ed13ab401512e9f87d6fa1.gif)  
 *When you’re crafting the perfect caption…*  
 
-![Snoopy brainstorming](https://media.giphy.com/media/3o6ZtpxSZbQRRnwCKQ/giphy.gif)  
+![Snoopy brainstorming](https://i.pinimg.com/originals/ff/69/93/ff699349b80c0c5d792d29104c0c75dc.gif)  
 *When the AI starts thinking…*  
 
-![Snoopy dancing](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)  
+![Snoopy dancing](https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUydnY3b3RvZDBscG1neTZsd2FnMnJmeTcwYzZ4MGJzMWlxNng3YnVxbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3q2XXYxkdxzjMC9G/giphy.gif)  
 *When the campaign generation is done!*  
 
 ---
