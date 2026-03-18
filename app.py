@@ -7,19 +7,29 @@ client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
 st.set_page_config(page_title="AI Marketing Agent", layout="wide")
 
-st.title("🤖 AI Marketing Agent")
+st.markdown(
+    """
+    <h1 style='font-family: "Comic Sans MS", cursive, sans-serif; font-size:24px;'>
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUydGcyOXU0ejQxdHM3NGpnMjNtMzltY2d3NjI0eDZraHdwOGQxeGZ3ZiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/IhgKEBNmk3aZEe4dbw/giphy.gif" 
+             width="300" 
+             style="vertical-align:middle;"> 
+        ⭐ AI Marketing Agent
+    </h1>
+    """,
+    unsafe_allow_html=True
+)
 st.write("Create campaigns using AI + creativity ✨")
 
 # Sidebar
-st.sidebar.markdown("## 👑 Made by Sanriocub Projects")
+st.sidebar.markdown("## 🐅 Made by Sanriocub Projects")
 st.sidebar.markdown("[GitHub Repo](https://github.com/sanriocub/ai-marketing-agent)")
 st.sidebar.markdown("---")
 
 # Inputs
-audience = st.text_input("🎯 Target Audience")
-platform = st.selectbox("📱 Platform", ["Instagram", "TikTok", "LinkedIn"])
-goal = st.text_input("🎯 Campaign Goal")
-style = st.selectbox("💅 Style", ["Gen Z fun", "Luxury aesthetic", "Minimal clean"])
+audience = st.text_input("🧸 Target Audience")
+platform = st.selectbox("🦢 Platform", ["Instagram", "TikTok", "LinkedIn"])
+goal = st.text_input("🐆 Campaign Goal")
+style = st.selectbox("🦔 Style", ["Gen Z fun", "Luxury aesthetic", "Minimal clean"])
 
 # Generate button
 if st.button("Generate Campaign 🎬"):
