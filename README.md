@@ -96,6 +96,7 @@ __pycache__/
 
 * [Streamlit](https://streamlit.io/) – Web interface
 * [OpenAI API](https://platform.openai.com/) – Campaign generation
+* Anaconda Prompt to set the environment
 * Python 3.11
 
 ---
