@@ -104,5 +104,6 @@ __pycache__/
 ## 🐾 Author
 
 **Sanriocub Projects**
+Sangeetha Rajsubramanian :3
 [GitHub Repo](https://github.com/sanriocub/ai-marketing-agent)
 
